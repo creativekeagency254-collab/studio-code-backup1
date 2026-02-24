@@ -1,0 +1,12 @@
+{
+  "name": "studio-code-landing",
+  "version": "1.0.0",
+  "description": "Landing page and dashboard for Studio Code",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
